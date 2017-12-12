@@ -1,3 +1,5 @@
 # SMACC - automate bookkeeping with AI
 
-Slides from my talk during SAP meetup Wrocław; https://www.meetup.com/Wroclaw-SAP-Community-Meetup/events/244107394/
+Slides from my talk "SMACC - automate bookkeeping with AI" from SAP Meetup Wrocław.
+
+https://www.meetup.com/Wroclaw-SAP-Community-Meetup/events/244107394/
